@@ -28,8 +28,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ```
 ## OUTPUT(Ascending order)
-
-
+<img width="1505" height="784" alt="image" src="https://github.com/user-attachments/assets/98ad8db0-74b3-43b5-80a2-935c40361de0" />
 
 ---
 
